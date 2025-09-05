@@ -1,7 +1,7 @@
-# Ruoyi 4.8.0 sqli injection
+# Ruoyi 4.8.1 sqli injection
 Ruoyi is an open-source project on GitHub with 6.8k stars. This vulnerability bypasses the blacklist in the code, leading to an SQL injection vulnerability.
 ## Version & Reference
-ruoyi ≤4.8.0
+ruoyi ≤4.8.1
 
 https://github.com/yangzongzhuan/RuoYi
 ## Vulnerable Code
